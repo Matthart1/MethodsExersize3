@@ -1,0 +1,13 @@
+C:\Users\mphar\Desktop\repos\MethodsExersize3\MethodExersize3\MethodExersize3\bin\Debug\netcoreapp3.1\MethodExersize3.exe
+C:\Users\mphar\Desktop\repos\MethodsExersize3\MethodExersize3\MethodExersize3\bin\Debug\netcoreapp3.1\MethodExersize3.deps.json
+C:\Users\mphar\Desktop\repos\MethodsExersize3\MethodExersize3\MethodExersize3\bin\Debug\netcoreapp3.1\MethodExersize3.runtimeconfig.json
+C:\Users\mphar\Desktop\repos\MethodsExersize3\MethodExersize3\MethodExersize3\bin\Debug\netcoreapp3.1\MethodExersize3.runtimeconfig.dev.json
+C:\Users\mphar\Desktop\repos\MethodsExersize3\MethodExersize3\MethodExersize3\bin\Debug\netcoreapp3.1\MethodExersize3.dll
+C:\Users\mphar\Desktop\repos\MethodsExersize3\MethodExersize3\MethodExersize3\bin\Debug\netcoreapp3.1\MethodExersize3.pdb
+C:\Users\mphar\Desktop\repos\MethodsExersize3\MethodExersize3\MethodExersize3\obj\Debug\netcoreapp3.1\MethodExersize3.AssemblyInfoInputs.cache
+C:\Users\mphar\Desktop\repos\MethodsExersize3\MethodExersize3\MethodExersize3\obj\Debug\netcoreapp3.1\MethodExersize3.AssemblyInfo.cs
+C:\Users\mphar\Desktop\repos\MethodsExersize3\MethodExersize3\MethodExersize3\obj\Debug\netcoreapp3.1\MethodExersize3.csproj.CoreCompileInputs.cache
+C:\Users\mphar\Desktop\repos\MethodsExersize3\MethodExersize3\MethodExersize3\obj\Debug\netcoreapp3.1\MethodExersize3.dll
+C:\Users\mphar\Desktop\repos\MethodsExersize3\MethodExersize3\MethodExersize3\obj\Debug\netcoreapp3.1\MethodExersize3.pdb
+C:\Users\mphar\Desktop\repos\MethodsExersize3\MethodExersize3\MethodExersize3\obj\Debug\netcoreapp3.1\MethodExersize3.genruntimeconfig.cache
+C:\Users\mphar\Desktop\repos\MethodsExersize3\MethodExersize3\MethodExersize3\obj\Debug\netcoreapp3.1\MethodExersize3.csprojAssemblyReference.cache
